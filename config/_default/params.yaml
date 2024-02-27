@@ -71,7 +71,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://code.mapper.fr/jeremy/mapperfr_source'
+    url: 'https://github.com/mapperfr/mapperfr_source'
     content_dir: content
     branch: main
   avatar:
