@@ -107,6 +107,9 @@ social:
   icon_pack: fas
   link: https://mapper.fr/blog/index.xml
 
+# Gravatar
+email: "jeremy@mapper.fr"
+  
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
