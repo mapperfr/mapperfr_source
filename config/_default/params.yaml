@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Jérémy Garniaux - [cc by nc sa 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).<br><div id="wcb" class="carbonbadge"></div>
+    notice: '© {year} Jérémy Garniaux - [cc by nc sa 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).<br><div id="wcb" class="carbonbadge wcb-d"></div>
 <script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>'
     license:
       enable: false
