@@ -3,20 +3,27 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
+fr:
+  langaugeCode: fr-fr
+  contentDir: content/fr
+
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
-
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  contentDir: content/en
+  title: mapper.fr
+  params:
+    description: Personal website of Jérémy Garniaux, geographer, mapmaker & developer.
+  menu:
+    main:
+    - name: About
+      url: '#about'
+      weight: 10
+    - name: Resume
+      url: '#resume'
+      weight: 20
+    - name: Blog
+      url: '#blog'
+      weight: 30
+    - name: Contact
+      url: '#contact'
+      weight: 40

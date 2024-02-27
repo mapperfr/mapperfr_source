@@ -1,0 +1,19 @@
+main:
+  # - name: "My Widget Page"
+  #   url: "landing/"
+  #   weight: 2
+  - name: About
+    url: '#about'
+    weight: 10
+  - name: Resume
+    url: '#resume'
+    weight: 20
+  - name: Blog
+    url: '#blog'
+    weight: 30
+  # - name: Slides
+  #   url: '#slides'
+  #   weight: 30
+  - name: Contact
+    url: '#contact'
+    weight: 40
