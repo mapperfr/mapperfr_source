@@ -3,7 +3,7 @@
 
 [[buttons]]
   id = "mastodon"
-  url = "https://mastodonshare.com/share"
+  url = "https://mastodonshare.com/share?text={title}&url={url}"
   title = "Mastodon"
   icon_pack = "fab"
   icon = "mastodon"
