@@ -1,3 +1,4 @@
+---
 title: "Journées QGIS 2024: créer un atlas cartographique pour la nuit de la solidarité à Montpellier"
 author: Jérémy Garniaux
 type: post
@@ -11,7 +12,7 @@ tags:
   - cartographie
   - expressions qgis
   - présentation
---
+---
 
 La nuit de la solidarité est une opération annuelle, à échelle nationale mais reposant sur l'initiative des collectivités locales. Son objectif principal est de dénombrer les personnes en situation de rue sur le territoire concerné. Programmée à Montpellier le 18 mai 2023 de 18h à minuit, elle a mobilisé près de 200 bénévoles qui ont compté près de 2800 personnes sans abri, dont plus de 500 directement rencontrées pendant l'enquête.
 
