@@ -2,7 +2,7 @@
 title: "Journées QGIS 2024: créer un atlas cartographique pour la nuit de la solidarité à Montpellier"
 author: Jérémy Garniaux
 type: post
-date: 2024-01-07
+date: 2024-07-01
 categories:
   - carnet
 tags:
