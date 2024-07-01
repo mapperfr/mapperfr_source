@@ -3,7 +3,7 @@ title: Éric Maurin - le ghetto français
 author: Jérémy Garniaux
 type: post
 date: 2007-05-26T12:20:27+00:00
-draft: false
+draft: true
 categories:
   - lectures
 tags:
