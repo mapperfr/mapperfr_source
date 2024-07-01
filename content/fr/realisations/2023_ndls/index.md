@@ -9,5 +9,5 @@ tags:
   - print
 date: 2023-05
 weight: 3
-# external_link: http://github.com
+external_link: https://mapper.fr/blog/2024-07/journees-qgis/
 ---
