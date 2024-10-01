@@ -14,7 +14,7 @@ last_name: Garniaux
 superuser: true
 
 # Role/position/tagline
-role: Cartographe & développeur
+role: Développeur SIG & doctorant en archéologie numérique
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,7 +26,9 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Cartographie
+- Systèmes d'Information Géographiques
+- Archéologie numérique
+- Cartographie et analyse spatiale
 - Open data & science ouverte
 - Développement web
 
@@ -114,4 +116,6 @@ email: "jeremy@mapper.fr"
 highlight_name: true
 ---
 
-Géographe de formation, je suis développeur pour la science ouverte en archéologie au [LAMPEA](https://lampea.cnrs.fr), à la [MMSH](https://mmsh.fr) d'Aix-en-Provence, et enseignant en cartographie au sein du [Master Urba](https://master-urbanisme.www.univ-montp3.fr/fr/%C3%A9quipe/equipe-et-fonctionnement-p%C3%A9dagogique) de l'Université Paul Valéry à Montpellier. Je suis également le [créateur](https://mapper.fr/blog/introducing-mapstodon/) de [Mapstodon.space](https://mapstodon.space), une instance Mastodon multilingue dédiée à la cartographie qui rassemble aujourd'hui plus de deux mille personnes. Je suis disponible pour réaliser des prestations [autour de la cartographie et de l'open data](https://mapper.fr/blog/ips-geolocalise/) - [n'hésitez pas à me contacter](https://mapper.fr/#contact)!
+Bienvenue sur mapper.fr, le site de personnel de Jérémy Garniaux ! Je suis actuellement développeur à [Oslandia](https://oslandia.com) et doctorant [CIFRE](https://www.enseignementsup-recherche.gouv.fr/fr/les-cifre-46510) en archéologie numérique au [LAMPEA](https://lampea.cnrs.fr) ([MMSH](https://mmsh.fr), Aix Marseille Université). Mon sujet porte sur le développement d'interfaces web open source de manipulation de jumeaux numériques de sites archéologiques. J'ai exercé auparavant comme développeur pour la science ouverte en archéologie, comme enseignant en cartographie, comme cartographe _freelance_ ou bien comme [artiste](https://lafoliekilometre.org). 
+
+Je suis le [créateur](https://mapper.fr/blog/introducing-mapstodon/) de [Mapstodon.space](https://mapstodon.space), une instance Mastodon multilingue dédiée à la cartographie qui rassemble aujourd'hui plus de deux mille personnes. Enfin, Je mène parfois des [projets cartographiques ponctuels](https://mapper.fr/blog/ips-geolocalise/). [N'hésitez pas à me contacter](https://mapper.fr/#contact)!
