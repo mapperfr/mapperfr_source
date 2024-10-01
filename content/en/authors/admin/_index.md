@@ -4,16 +4,19 @@ title: Jérémy Garniaux
 
 superuser: true
 
-role: Cartographer & developer
+role: GIS engineer & PhD candidate in digital archaeology
 
 organizations:
 - name: Aix-Marseille University
   url: https://www.univ-amu.fr
+- name: Oslandia
+  url: https://oslandia.com
 
 # bio: 
 
 interests:
-- Cartography & geospatial
+- GIS, cartography & geospatial
+- Digital archaeology
 - Open science & open data
 - Web development
 
@@ -47,4 +50,6 @@ email: "jeremy@mapper.fr"
 highlight_name: true
 ---
 
-I'm a developer for the open science in archaeology at the [LAMPEA](https://lampea.cnrs.fr) laboratory ([MMSH](https://mmsh.fr), Aix-en-Provence, France), and a teacher in cartography for [Master's students in urbanism](https://master-urbanisme.www.univ-montp3.fr/fr/%C3%A9quipe/equipe-et-fonctionnement-p%C3%A9dagogique) at Paul-Valéry University in Montpellier. I also [founded](https://mapper.fr/carnet/introducing-mapstodon/) [mapstodon.space](https://mapstodon.space), a multilingual Mastodon instance dedicated to cartography and geospatial that gathers about a thousand members (and growing!). I'm open to work [in cartography and open data processing](https://mapper.fr/en/blog/social-position-index/) - [feel free to reach out](https://mapper.fr/en/#contact)!
+I'm a developer at [Oslandia](https://oslandia.com) and a PhD candidate in digital archaeology at [LAMPEA](https://lampea.cnrs.fr) (Aix Marseille University), focusing on the development of open source web interfaces for working with digital twins of archaeological sites. I have previously worked as a developer for the open science in archaeology, as a cartography teacher, as a freelance cartographer or as an [artist](https://lafoliekilometre.org). 
+
+I'm the [creator](https://mapper.fr/blog/introducing-mapstodon/) of [Mapstodon.space](https://mapstodon.space), a multilingual Mastodon instance dedicated to cartography that gather more than 2000 people now. Finally, I sometimes carry out [occasional cartographic projects](https://mapper.fr/en/blog/2022-12/ips) and lately I've been very interested in [permacomputing](https://permacomputing.net/), [digital sobriety](https://fr.wikipedia.org/wiki/Sobri%C3%A9t%C3%A9_num%C3%A9rique) and the necessary [rewilding of the internet](https://www.noemamag.com/we-need-to-rewild-the-internet/).
