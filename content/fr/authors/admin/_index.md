@@ -20,6 +20,8 @@ role: Développeur SIG & doctorant en archéologie numérique
 organizations:
 - name: Aix-Marseille Université
   url: https://www.univ-amu.fr 
+- name: Oslandia
+  url: https://oslandia.com
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -116,6 +118,6 @@ email: "jeremy@mapper.fr"
 highlight_name: true
 ---
 
-Bienvenue sur mapper.fr, le site de personnel de Jérémy Garniaux ! Je suis actuellement développeur à [Oslandia](https://oslandia.com) et doctorant [CIFRE](https://www.enseignementsup-recherche.gouv.fr/fr/les-cifre-46510) en archéologie numérique au [LAMPEA](https://lampea.cnrs.fr) ([MMSH](https://mmsh.fr), Aix Marseille Université). Mon sujet porte sur le développement d'interfaces web open source de manipulation de jumeaux numériques de sites archéologiques. J'ai exercé auparavant comme développeur pour la science ouverte en archéologie, comme enseignant en cartographie, comme cartographe _freelance_ ou bien comme [artiste](https://lafoliekilometre.org). 
+Je suis développeur à [Oslandia](https://oslandia.com) et doctorant [CIFRE](https://www.enseignementsup-recherche.gouv.fr/fr/les-cifre-46510) en archéologie numérique au [LAMPEA](https://lampea.cnrs.fr) ([MMSH](https://mmsh.fr), Aix Marseille Université). Mon sujet porte sur le développement d'interfaces web open source de manipulation de jumeaux numériques de sites archéologiques. J'ai exercé auparavant comme développeur pour la science ouverte en archéologie, comme enseignant en cartographie, comme cartographe indépendant ou bien comme [artiste](https://lafoliekilometre.org). 
 
-Je suis le [créateur](https://mapper.fr/blog/introducing-mapstodon/) de [Mapstodon.space](https://mapstodon.space), une instance Mastodon multilingue dédiée à la cartographie qui rassemble aujourd'hui plus de deux mille personnes. Enfin, Je mène parfois des [projets cartographiques ponctuels](https://mapper.fr/blog/ips-geolocalise/). [N'hésitez pas à me contacter](https://mapper.fr/#contact)!
+Je suis le [créateur](https://mapper.fr/blog/introducing-mapstodon/) de [Mapstodon.space](https://mapstodon.space), une instance Mastodon multilingue dédiée à la cartographie qui rassemble aujourd'hui plus de deux mille personnes. Enfin, Je mène parfois des [projets cartographiques ponctuels](https://mapper.fr/blog/ips-geolocalise/) et m'intéresse beaucoup, ces derniers temps, au [permacomputing](https://permacomputing.net/), à la [sobriété numérique](https://fr.wikipedia.org/wiki/Sobri%C3%A9t%C3%A9_num%C3%A9rique) et au nécessaire [réensauvagement d'internet](https://www.noemamag.com/we-need-to-rewild-the-internet/).
