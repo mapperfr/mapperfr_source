@@ -22,9 +22,6 @@ interests:
 
 education:
   courses:
-  - course: PhD candidate in Prehistory
-    institution: Aix-Marseille University
-    ongoing
   - course: Master's degree in Urban Geography
     institution: Aix-Marseille University
     year: 2009
