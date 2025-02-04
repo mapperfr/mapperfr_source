@@ -14,7 +14,7 @@ last_name: Garniaux
 superuser: true
 
 # Role/position/tagline
-role: Développeur SIG & doctorant en archéologie numérique
+role: Cartographe & doctorant en archéologie numérique
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -117,4 +117,4 @@ email: "jeremy@mapper.fr"
 highlight_name: true
 ---
 
-Je suis doctorant [CIFRE](https://www.enseignementsup-recherche.gouv.fr/fr/les-cifre-46510) en archéologie numérique à [Oslandia](https://oslandia.com) et au [LAMPEA](https://lampea.cnrs.fr) ([MMSH](https://mmsh.fr), Aix Marseille Université), où je travaille sur le développement d'interfaces web open source de manipulation de jumeaux numériques de sites archéologiques. Je suis aussi le [créateur](https://mapper.fr/blog/introducing-mapstodon/) de [Mapstodon.Space](https://mapstodon.space), instance Mastodon multilingue de référence dédiée à la cartographie. Géographe et cartographe, je continue de mener des [projets cartographiques](https://mapper.fr/blog/2022-12/ips/) quand j'en trouve le temps, et je m'intéresse beaucoup ces derniers temps au [permacomputing](https://permacomputing.net/), à la [sobriété numérique](https://fr.wikipedia.org/wiki/Sobri%C3%A9t%C3%A9_num%C3%A9rique) et au [réensauvagement d'internet](https://www.noemamag.com/we-need-to-rewild-the-internet/).
+Géographe et cartographe, je suis actuellement doctorant en archéologie numérique au [LAMPEA](https://lampea.cnrs.fr) et à [Oslandia](https://oslandia.com), où je travaille sur le développement d'interfaces web open source de manipulation de jumeaux numériques de sites archéologiques. Je suis aussi le [créateur](https://mapper.fr/blog/introducing-mapstodon/) de [Mapstodon.Space](https://mapstodon.space), instance Mastodon multilingue dédiée à la cartographie. Je m'intéresse beaucoup ces derniers temps à de curieuses choses comme [NixOS](https://nixos.org/), le [permacomputing](https://permacomputing.net/), la [sobriété numérique](https://fr.wikipedia.org/wiki/Sobri%C3%A9t%C3%A9_num%C3%A9rique) et le [réensauvagement d'internet](https://www.noemamag.com/we-need-to-rewild-the-internet/).
