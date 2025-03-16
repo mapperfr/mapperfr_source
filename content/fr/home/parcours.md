@@ -56,9 +56,7 @@ experience:
     location: Montpellier, Béziers
     date_start: '2018-10-01'
     date_end: ''
-    description: 
-      
-      Enseignant en cartographie à l'IUT de Béziers et au sein du Master Urba de l'Université Paul Valéry. Enquêtes de terrain, récolte et traitement de données hétérogènes, analyse spatiale et cartographie. Outils principaux : QGIS, MAGRIT, Inkscape, Scribus.
+    description: Enseignant en cartographie à l'IUT de Béziers et au sein du Master Urba de l'Université Paul Valéry. Enquêtes de terrain, récolte et traitement de données hétérogènes, analyse spatiale et cartographie. Outils principaux : QGIS, MAGRIT, Inkscape, Scribus.
     
   - title: Ingénieur de recherche, projet _Climat_
     company: SATT Sud-Est
@@ -107,9 +105,7 @@ experience:
     location: Marseille
     date_start: '2010-01-01'
     date_end: '2015-01-30'
-    description: 
-    
-      Cartographie print, ateliers participatif, cartographie web dynamique, assistance à projets culturels et artistiques à dimension territoriale, etc. Clients : Libération, ATTAC, Marseille-Provence 2013, MuCEM, Mairie de Marseille, Cité des Arts de la Rue, les Éditions Lignes, Wildproject, Radio Grenouille...
+    description: Cartographie print, ateliers participatif, cartographie web dynamique, assistance à projets culturels et artistiques à dimension territoriale, etc. Clients : Libération, ATTAC, Marseille-Provence 2013, MuCEM, Mairie de Marseille, Cité des Arts de la Rue, les Éditions Lignes, Wildproject, Radio Grenouille...
     
   - title: Géomaticien
     company: LPED, Aix-Marseille Université
@@ -118,9 +114,7 @@ experience:
     location: Marseille
     date_start: '2010-01-01'
     date_end: '2010-12-31'
-    description: 
-    
-      Chargé d’études en géomatique dans le cadre du programme de recherche PUCA « enclaves résidentielles à Marseille » (LPED-UMR 151). Conception du SIG et du protocole d’enquête de terrain, cartographie, analyse spatiale, coordination des enquêtes de terrain.
+    description: Chargé d’études en géomatique dans le cadre du programme de recherche PUCA « enclaves résidentielles à Marseille » (LPED-UMR 151). Conception du SIG et du protocole d’enquête de terrain, cartographie, analyse spatiale, coordination des enquêtes de terrain.
     
 design:
   columns: '2'
