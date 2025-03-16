@@ -30,11 +30,11 @@ experience:
     # location: Télétravail / Aix-en-Provence
     date_start: '2024-09-01'
     date_end: ''
-    description: "|2-
+    description: |2-
     
-    Doctorat en Préhistoire sous la dir. de Jean-Pierre Bracco, préhistorien, Prof. des universités membre du Laboratoire Méditerranéen de Préhistoire Europe Afrique (LAMPEA - UMR 7269).  
+      Doctorat en Préhistoire sous la dir. de Jean-Pierre Bracco, préhistorien, Prof. des universités membre du Laboratoire Méditerranéen de Préhistoire Europe Afrique (LAMPEA - UMR 7269).
     
-    Sujet : _Jumeaux numériques et 3D géospatiale sur le web pour la recherche en archéologie : développements open source pour l’analyse, le travail collaboratif et la visualisation_. Doctorat CIFRE mené en accueil au sein d'Oslandia, société spécialisée en architecture SIG open source.  
+      Sujet : _Jumeaux numériques et 3D géospatiale sur le web pour la recherche en archéologie : développements open source pour l’analyse, le travail collaboratif et la visualisation_. Doctorat CIFRE mené en accueil au sein d'Oslandia, société spécialisée en architecture SIG open source.  
     
   - title: Ingénieur d'études, développeur pour la science ouverte en archéologie
     company: MMSH, Aix Marseille Université
@@ -43,11 +43,11 @@ experience:
     location: Aix-en-Provence
     date_start: '2020-02-01'
     date_end: '2024-01-31'
-    description:'|2-
+    description: |2-
     
-    Maison Méditerranéenne des Sciences de l'Homme (UAR 3125), [Laboratoire Méditerranéen de Préhistoire Europe Afrique (UMR 7269)](https://lampea.cnrs/fr), [Institut Arkaia](https://www.univ-amu.fr/fr/public/institut-archeologie-mediterraneenne-arkaia).
+      Maison Méditerranéenne des Sciences de l'Homme (UAR 3125), [Laboratoire Méditerranéen de Préhistoire Europe Afrique (UMR 7269)](https://lampea.cnrs/fr), [Institut Arkaia](https://www.univ-amu.fr/fr/public/institut-archeologie-mediterraneenne-arkaia).
     
-    Développement d'ArcaDIIS (_Archaeological Data Infrastructure for Interoperability and Sharing_), plateforme de partage des données de la recherche en archéologie. Développements web au service de différents projets de recherche en archéologie. Participation aux travaux du Pôle édition de la MMSH.'
+      Développement d'ArcaDIIS (_Archaeological Data Infrastructure for Interoperability and Sharing_), plateforme de partage des données de la recherche en archéologie. Développements web au service de différents projets de recherche en archéologie. Participation aux travaux du Pôle édition de la MMSH.'
     
   - title: Enseignant en cartographie
     company: Université Paul Valéry
@@ -56,7 +56,9 @@ experience:
     location: Montpellier, Béziers
     date_start: '2018-10-01'
     date_end: ''
-    description: Enseignant en cartographie à l'IUT de Béziers et au sein du Master Urba de l'Université Paul Valéry. Enquêtes de terrain, récolte et traitement de données hétérogènes, analyse spatiale et cartographie. Outils principaux : QGIS, MAGRIT, Inkscape, Scribus.
+    description: 
+      
+      Enseignant en cartographie à l'IUT de Béziers et au sein du Master Urba de l'Université Paul Valéry. Enquêtes de terrain, récolte et traitement de données hétérogènes, analyse spatiale et cartographie. Outils principaux : QGIS, MAGRIT, Inkscape, Scribus.
     
   - title: Ingénieur de recherche, projet _Climat_
     company: SATT Sud-Est
@@ -105,7 +107,9 @@ experience:
     location: Marseille
     date_start: '2010-01-01'
     date_end: '2015-01-30'
-    description: Cartographie print, ateliers participatif, cartographie web dynamique, assistance à projets culturels et artistiques à dimension territoriale, etc. Clients : Libération, ATTAC, Marseille-Provence 2013, MuCEM, Mairie de Marseille, Cité des Arts de la Rue, les Éditions Lignes, Wildproject, Radio Grenouille...
+    description: 
+    
+      Cartographie print, ateliers participatif, cartographie web dynamique, assistance à projets culturels et artistiques à dimension territoriale, etc. Clients : Libération, ATTAC, Marseille-Provence 2013, MuCEM, Mairie de Marseille, Cité des Arts de la Rue, les Éditions Lignes, Wildproject, Radio Grenouille...
     
   - title: Géomaticien
     company: LPED, Aix-Marseille Université
@@ -114,9 +118,10 @@ experience:
     location: Marseille
     date_start: '2010-01-01'
     date_end: '2010-12-31'
-    description: Chargé d’études en géomatique dans le cadre du programme de recherche PUCA « enclaves résidentielles à Marseille » (LPED-UMR 151). Conception du SIG et du protocole d’enquête de terrain, cartographie, analyse spatiale, coordination des enquêtes de terrain.
+    description: 
+    
+      Chargé d’études en géomatique dans le cadre du programme de recherche PUCA « enclaves résidentielles à Marseille » (LPED-UMR 151). Conception du SIG et du protocole d’enquête de terrain, cartographie, analyse spatiale, coordination des enquêtes de terrain.
     
 design:
   columns: '2'
 ---
-
