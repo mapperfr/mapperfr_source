@@ -31,9 +31,9 @@ experience:
     date_start: '2024-09-01'
     date_end: ''
     description: |2-
-      Doctorat en Préhistoire sous la dir. de Jean-Pierre Bracco, préhistorien, Prof. des universités membre du Laboratoire Méditerranéen de Préhistoire Europe Afrique (LAMPEA - UMR 7269).
+      Doctorat en préhistoire au [LAMPEA](https://lampea.cnrs.fr) (UMR 7269) sous la dir. de J.-P. Bracco, en accueil au sein d'[Oslandia](https://oslandia.com), société spécialisée en architecture SIG open source.
     
-      Sujet : _Jumeaux numériques et 3D géospatiale sur le web pour la recherche en archéologie : développements open source pour l’analyse, le travail collaboratif et la visualisation_. Doctorat CIFRE mené en accueil au sein d'Oslandia, société spécialisée en architecture SIG open source.  
+      Sujet : "Jumeaux numériques et 3D géospatiale sur le web pour la recherche en archéologie : développements open source pour l’analyse, le travail collaboratif et la visualisation."
     
   - title: Ingénieur d'études, développeur pour la science ouverte en archéologie
     company: MMSH, Aix Marseille Université
@@ -45,7 +45,7 @@ experience:
     description: |2-
       Maison Méditerranéenne des Sciences de l'Homme (UAR 3125), [Laboratoire Méditerranéen de Préhistoire Europe Afrique (UMR 7269)](https://lampea.cnrs/fr), [Institut Arkaia](https://www.univ-amu.fr/fr/public/institut-archeologie-mediterraneenne-arkaia).
     
-      Développement d'ArcaDIIS (_Archaeological Data Infrastructure for Interoperability and Sharing_), plateforme de partage des données de la recherche en archéologie. Développements web au service de différents projets de recherche en archéologie. Participation aux travaux du Pôle édition de la MMSH.'
+      Développement d'ArcaDIIS (_Archaeological Data Infrastructure for Interoperability and Sharing_), plateforme de partage des données de la recherche en archéologie. Développements web au service de différents projets de recherche en archéologie. Participation aux travaux du Pôle édition de la MMSH.
     
   - title: Enseignant en cartographie
     company: Université Paul Valéry
@@ -53,7 +53,7 @@ experience:
     company_logo: upv
     location: Montpellier, Béziers
     date_start: '2018-10-01'
-    date_end: ''
+    date_end: '2024-06-30'
     description: "Enseignant en cartographie à l'IUT de Béziers et au sein du Master Urba de l'Université Paul Valéry. Enquêtes de terrain, récolte et traitement de données hétérogènes, analyse spatiale et cartographie. Outils principaux : QGIS, MAGRIT, Inkscape, Scribus."
     
   - title: Ingénieur de recherche, projet _Climat_
@@ -63,7 +63,10 @@ experience:
     location: Marseille
     date_start: '2017-10-01'
     date_end: '2018-11-01'
-    description: "Conception et développement de [la maquette MACLI](https://www.sattse.com/16262/) de simulation de l'îlot de chaleur urbain, en partenariat avec le rectorat de l’Académie d'Aix-Marseille. Participation à la conception et mise en place d’une campagne de mesure de l’îlot de chaleur urbain à Marseille en situation de canicule. Grâce à un parte­nar­i­at avec le rec­torat d’Aix-Mar­seille, trois exem­plaires de la maque­tte ont cir­culé dans plusieurs col­lèges et lycées pen­dant un an, accom­pa­g­nées d’un pro­gramme péd­a­gogique dédié, con­tribuant à sen­si­bilis­er les plus jeunes aux ques­tions cli­ma­tiques et écologiques en milieu urbain."
+    description: |2-
+      Conception et développement de la maquette [MACLI](https://www.sattse.com/16262/) de simulation de l'îlot de chaleur urbain, en partenariat avec le rectorat de l’Académie d'Aix-Marseille. Participation à la conception et mise en place d’une campagne de mesure de l’îlot de chaleur urbain à Marseille en situation de canicule.
+    
+      Grâce à un parte­nar­i­at avec le rec­torat d’Aix-Mar­seille, trois exem­plaires de la maque­tte ont cir­culé dans plusieurs col­lèges et lycées pen­dant un an, accom­pa­g­nées d’un pro­gramme péd­a­gogique dédié, con­tribuant à sen­si­bilis­er les plus jeunes aux ques­tions cli­ma­tiques et écologiques en milieu urbain."
     
   - title: Ingénieur d'études, géomaticien
     company: LPED, Aix-Marseille Université
@@ -72,7 +75,7 @@ experience:
     location: Marseille
     date_start: '2017-03-01'
     date_end: '2017-07-01'
-    description: "Mise en place d'une infrastructure de données géographiques basé sur Geonode. Intégration des données issues de l'axe TRAMES et de l'Observatoire Société-Environnement."
+    description: "Mise en place d'une infrastructure de données géographiques basé sur Geonode. Intégration des données de l'axe TRAMES et de l'Observatoire Société-Environnement."
     
   - title: Chargé de projet *Mediterranean Cities and Climate Change*
     company: LPED, Aix-Marseille Université
@@ -91,7 +94,9 @@ experience:
     date_start: '2011-01-01'
     date_end: '2014-12-31'
     description: |2-
-      'Basée à Marseille, La Folie Kilomètre est un collectif de création en espace public fondé en 2011. Elle regroupe des artistes issus du spectacle vivant, des arts plastiques et de l’aménagement du territoire. À la croisée de ces pratiques, nous imaginons des expéditions, spectacles, promenades et ateliers. De la cartographie sensible à la création sonore, de l’installation visuelle au tableau vivant, les disciplines dialoguent et leurs contours se fondent dans un langage métissé. Monumentales ou minuscules, nos interventions jouent avec les échelles des lieux et les niveaux de lecture.'
+      Basée à Marseille, La Folie Kilomètre est un collectif de création en espace public fondé en 2011. Elle regroupe des artistes issus du spectacle vivant, des arts plastiques et de l’aménagement du territoire. À la croisée de ces pratiques, nous imaginons des expéditions, spectacles, promenades et ateliers. 
+      
+      De la cartographie sensible à la création sonore, de l’installation visuelle au tableau vivant, les disciplines dialoguent et leurs contours se fondent dans un langage métissé. Monumentales ou minuscules, nos interventions jouent avec les échelles des lieux et les niveaux de lecture.
         
       [Entretien avec la revue Strabic](https://strabic.fr/La-Folie-Kilometre) (mars 2014)
       
