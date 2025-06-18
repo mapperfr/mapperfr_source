@@ -29,7 +29,8 @@ bio:
 # Interests to show in About widget
 interests:
 - Archéologie numérique
-- Cartographie, SIG & 3D géospatiale
+- Cartographie
+- SIG & 3D géospatiale
 - Développement web
 - Open data & science ouverte
 
@@ -105,7 +106,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/cv_garniaux_2022.pdf
+  link: uploads/cv_garniaux_2025.pdf
 - icon: rss
   icon_pack: fas
   link: https://mapper.fr/blog/index.xml
@@ -117,6 +118,6 @@ email: "jeremy@mapper.fr"
 highlight_name: true
 ---
 
-Géographe de formation, je suis actuellement doctorant en archéologie numérique au [LAMPEA](https://lampea.cnrs.fr) et à [Oslandia](https://oslandia.com), où je travaille sur les pratiques des archéologues en matière de 3D géospatiale, et sur la conception d'interfaces web spécialisées pour la consultation et l'analyse collaboratives de jumeaux numériques de sites archéologiques. Je suis aussi le [créateur](https://mapper.fr/blog/introducing-mapstodon/) de [Mapstodon.Space](https://mapstodon.space), instance Mastodon multilingue dédiée à la cartographie. 
+Géographe de formation, je suis doctorant en archéologie numérique au [LAMPEA](https://lampea.cnrs.fr) et à [Oslandia](https://oslandia.com), où je travaille sur les pratiques des archéologues en matière de 3D géospatiale, et sur la conception d'interfaces web spécialisées pour la consultation et l'analyse collaboratives de jumeaux numériques de sites archéologiques. Je suis aussi le [créateur](https://mapper.fr/blog/introducing-mapstodon/) de [Mapstodon.Space](https://mapstodon.space), instance Mastodon multilingue dédiée à la cartographie. 
 
 <!-- Je m'intéresse beaucoup ces derniers temps à de curieuses choses comme [NixOS](https://nixos.org/), le [permacomputing](https://permacomputing.net/), la [sobriété numérique](https://fr.wikipedia.org/wiki/Sobri%C3%A9t%C3%A9_num%C3%A9rique) et le [réensauvagement d'internet](https://www.noemamag.com/we-need-to-rewild-the-internet/). -->
