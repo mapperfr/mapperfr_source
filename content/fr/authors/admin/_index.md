@@ -18,8 +18,8 @@ role: Géographe & doctorant en archéologie numérique
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Aix-Marseille Université
-  url: https://www.univ-amu.fr 
+- name: LAMPEA
+  url: https://lampea.cnrs.fr 
 - name: Oslandia
   url: https://oslandia.com
 
