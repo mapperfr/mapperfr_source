@@ -10,7 +10,7 @@ tags:
   - tutorial
 ---
 
-Here are the steps to follow to change Mastodon instances - and to join us at https://mapstodon.space, for example!
+Here are the steps to follow to move your Mastodon account to another instance - and to join us at https://mapstodon.space, for example!
 
 - On your old account, go to **Preferences** > **Import and export** > **Request your archive**. After a little moment, you will be able to download the ZIP archive that has been created (you can also wait to receive the email informing you that your archive is ready). You will use this later to re-import certain data that has not been transferred.
 

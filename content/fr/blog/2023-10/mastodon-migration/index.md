@@ -24,7 +24,7 @@ Voici en quelques mots les étapes à suivre pour changer d'instance Mastodon - 
 
 ![](albums/carnet/mastodon-migration/mastodon-migration-2.png)
 
-Une fois que ce paramètre est réglé, l'ensemble de vos abonné.es seront également abonné.es au nouveau compte (je crois qu'ils et elles restent abonné.es à l'ancien, mais j'ai un doute. N'hésitez pas à me faire un petit retour d'expérience si vous suivez ce tutoriel pour changer d'instance!). Pour le reste - vos abonnements, les contacts bloqués ou masqués, par exemple - il faut réimporter les données que vous aurez exportées en CSV en début d'opération.
+Une fois que ce paramètre est réglé, l'ensemble de vos abonné.es seront également abonné.es au nouveau compte (je crois qu'ils et elles restent abonné.es à l'ancien, mais j'ai un doute. N'hésitez pas à me faire un petit retour d'expérience si vous suivez ce tutoriel!). Pour le reste - vos abonnements, les contacts bloqués ou masqués, par exemple - il faut réimporter les données que vous aurez exportées en CSV en début d'opération.
 
 - Pour ce faire, Rendez-vous dans **Préférences** > **Import et export** > **Import de données**, et versez ici le fichier téléchargé à la première étape. Le traitement de ce fichier peut prendre un certain temps, c'est normal si vous anciens abonnements n’apparaissent pas immédiatement. De même, si certains comptes auxquels vous étiez abonné n'acceptent pas automatiquement les nouvelles demandes d'abonnement, il faudra attendre qu'ils valident cette demande avant de les retrouver dans votre liste d'abonnements.
 
