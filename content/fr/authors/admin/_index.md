@@ -14,7 +14,7 @@ last_name: Garniaux
 superuser: true
 
 # Role/position/tagline
-role: Géographe & doctorant en archéologie numérique
+role: Cartographe, doctorant en archéologie numérique
 
 # Organizations/Affiliations to show in About widget
 organizations:
