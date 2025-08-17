@@ -4,7 +4,7 @@ title: Jérémy Garniaux
 
 superuser: true
 
-role: Cartographer, PhD candidate in digital archaeology
+role: Cartographer & PhD candidate in digital archaeology
 
 organizations:
 - name: LAMPEA / AMU
