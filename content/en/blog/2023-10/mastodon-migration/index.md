@@ -14,7 +14,7 @@ Here are the steps to follow to move your Mastodon account to another instance -
 
 - On your old account, go to **Preferences** > **Import and export** > **Request your archive**. After a little moment, you will be able to download the ZIP archive that has been created (you can also wait to receive the email informing you that your archive is ready). You will use this later to re-import certain data that has not been transferred.
 
-- Create a new account on the instance you want to join.
+- Create a new account on the instance you want to join. If it is an instance that manually validates registrations, such as Mapstodon.Space, you will have to wait for your account to be validated before moving on to the next step.
 
 - In this new account, add an "alias" to your old account on another instance. In **Preferences** > **Account** > **Move from a different account** (at the bottom of the page) > **Create an account alias**, enter the address of your old account.
 

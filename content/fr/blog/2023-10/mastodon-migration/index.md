@@ -14,7 +14,7 @@ Voici en quelques mots les étapes à suivre pour changer d'instance Mastodon - 
 
 - Sur votre ancien compte, dans **Préférences** > **Import et export** > **Demander vos archives**. Après un moment d'attente, vous pourrez télécharger l'archive ZIP ainsi créée (vous pouvez aussi attendre de recevoir le mail qui vous indiquera que votre archive est prête). Vous l'utiliserez plus tard pour réimporter certaines données qui n'ont pas été transférées.
 
-- Créez un nouveau compte sur l'instance que vous souhaitez rejoindre.
+- Créez un nouveau compte sur l'instance que vous souhaitez rejoindre. Si c'est une instance qui procède à la validation manuelle des inscriptions, comme Mapstodon.Space, vous devrez attendre que votre compte soit validé pour passer à l'étape suivante.
 
 - Dans ce nouveau compte, ajoutez un "alias" à votre ancien compte sur une autre instance. Dans **Préférences** > **Compte** > **Déplacement depuis un compte différent** (en bas de page) > **Créer un alias de compte**, indiquez l'adresse de votre ancien compte.
 
