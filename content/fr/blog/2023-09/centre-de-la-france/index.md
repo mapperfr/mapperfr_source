@@ -19,6 +19,6 @@ Cet été, la route des vacances passait en plein milieu du pays. L'occasion ét
 
 Ce calcul de 1993 n'est que la plus récente réponse à [une très vieille question](https://fr.wikipedia.org/wiki/Centre_de_la_France). Il présente l'intérêt d'inclure pour la première fois la courbure de la Terre dans les paramètres de calcul. 
 
-Le 31 juillet 2023, de bon matin, nous étions donc en plein [centre de gravité](https://mapper.fr/carnet/centre-gravite-marseille-radio/) du pays [^1]. Il y faisait bon, le soleil chauffait déjà et quelques vaches y broutaient paisiblement, dans le calme endormi d'une journée d'été.
+Le 31 juillet 2023, de bon matin, nous étions donc en plein [centre de gravité](https://mapper.fr/blog/2011-05/centre-gravite-marseille-radio/) du pays [^1]. Il y faisait bon, le soleil chauffait déjà et quelques vaches y broutaient paisiblement, dans le calme endormi d'une journée d'été.
 
 [^1]: [Centroïde](https://fr.wiktionary.org/wiki/centro%C3%AFde), diraient les géomaticiens.
