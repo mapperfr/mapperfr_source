@@ -17,7 +17,7 @@ A few months ago, following a lawsuit launched by journalist [Alexandre Léchene
 
 I geolocated the 39,000+ facilities to map them. The scale goes from yellow for a very high SPI to purple for a very low SPI. Combined with information on the status of the institutions (private schools and colleges are surrounded by a white halo), the spatialization of this index tells a certain social geography of the country.
 
-The map is available here: https://mapper.space/projects/ipsg.html
+The map is available here: https://ipsg.mapper.fr
 
 ![](albums/ipsg/ipsg1.png)
 

@@ -18,7 +18,7 @@ Il y a quelques mois, suite à une procédure lancée par le journaliste [Alexan
 
 J'ai géolocalisé les plus de 39000 établissements pour en établir une cartographie. L'échelle va du jaune pour un IPS très élevé au violet pour un IPS très bas. Croisée aux informations sur le statut des établissements (les écoles et collèges privés sont entourés d'un halo blanc), la spatialisation de cet indice raconte une certaine géographie sociale du pays.
 
-Accéder à la cartographie dynamique: https://mapper.space/projects/ipsg.html
+Accéder à la cartographie dynamique: https://ipsg.mapper.fr
 
 ![](albums/carnet/ipsg/ipsg1.png)
 
