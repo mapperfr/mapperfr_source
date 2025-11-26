@@ -1,6 +1,6 @@
 ---
 title: Git, Gitlab, Github... Qu'ès aco?
-summary: 'Introduction à la journée "Explorer le potentiel de Git et Gitlab" organisée à la MMSH.'
+summary: 'Introduction à la journée "Explorer le potentiel de Git et Gitlab" organisée à la MMSH'
 authors: [Jérémy Garniaux]
 tags: [git, gitlab, github, vcs]
 categories: []

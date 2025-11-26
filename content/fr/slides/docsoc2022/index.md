@@ -1,6 +1,6 @@
 ---
 title: DocSoc2022
-summary: 'Données et métadonnées dans l’hybridation et le bricolage des pratiques des chercheurs en contexte de science ouverte: Un retour d’expérience du GDR SILEX.'
+summary: 'Données et métadonnées dans l’hybridation et le bricolage des pratiques des chercheurs en contexte de science ouverte: Un retour d’expérience du GDR SILEX'
 authors: [Christophe Tufféry, Vincent Delvigne, Paul Fernandes, Jérémy Garniaux, Stéphane Renault]
 tags: [silex, webmapping, cartographie, crowdsourcing, ppgis]
 categories: []
@@ -44,7 +44,7 @@ Cette présentation est une contribution collective. proposée par C. Tufféry, 
 
 ---
 
-#### Bref historique des recherches
+#### Bref historique des recherchesvoudrais qu'elle 
 
 Des travaux menés depuis le XIXe siècle
 
