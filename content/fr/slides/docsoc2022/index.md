@@ -23,7 +23,7 @@ Un retour d’expérience du GDR SILEX
 
 {{< speaker_note >}}
 
-Bonjour à toutes et à tous. Merci aux organisatrices et aux organisateurs pour l'invitation, pour nous donner cette occasion de revenir sur le travail mené au sein du GDR Silex dans la mise en oeuvre d'une plateforme scientifique de cartographie participative, merci enfin pour avoir bien voulu nous accueillir à distance malgré les consignes, suite à des contraintes de dernière minute de notre côté.
+	Bonjour à toutes et à tous. Merci aux organisatrices et aux organisateurs pour l'invitation, pour nous donner cette occasion de revenir sur le travail mené au sein du GDR Silex dans la mise en oeuvre d'une plateforme scientifique de cartographie participative, merci enfin pour avoir bien voulu nous accueillir à distance malgré les consignes, suite à des contraintes de dernière minute de notre côté.
 
 {{< /speaker_note >}}
 

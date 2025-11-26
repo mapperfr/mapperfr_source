@@ -218,7 +218,7 @@ Manip: présentation du projet en local et sur Gitlab, modification d'un fichier
 #### Merci pour votre attention!
 
 Jérémy Garniaux  
-jeremy.garniaux@univ-amu.fr 
+jeremy@mapper.fr 
 
 ![](albums/slides/git/bandeau.png)
 
