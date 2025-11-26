@@ -155,7 +155,7 @@ Gitlab, de son côté, est créé en 2011. Si les fonctionnalités proposées pa
 
 {{< /speaker_note >}}
 
-------
+---
 
 #### Gitlab
 
@@ -175,7 +175,7 @@ La particularité de Gitlab, comme je vous le disais plus tôt, c'est de propose
 
 {{< /speaker_note >}}
 
-------
+---
 
 #### Gitlab
 
@@ -195,7 +195,7 @@ Ces instances sont bien distinctes du site Gitlab.com!
 
 {{< /speaker_note >}}
 
-------
+---
 
 #### Git et Gitlab pour OrAG
 
@@ -213,7 +213,7 @@ Manip: présentation du projet en local et sur Gitlab, modification d'un fichier
 
 {{< /speaker_note >}}
 
-------
+---
 
 #### Merci pour votre attention!
 
