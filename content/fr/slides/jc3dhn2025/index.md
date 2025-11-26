@@ -1,6 +1,5 @@
 ---
-title: 3D géospatial, jumeaux numériques et outils open source pour 
-l'archéologie
+title: 3D géospatial, jumeaux numériques et outils open source pour l'archéologie
 summary: 'Avancées du projet Junarka'
 authors: [Jérémy Garniaux]
 tags: [junarka, thèse, 3D, jumeaux numériques]
