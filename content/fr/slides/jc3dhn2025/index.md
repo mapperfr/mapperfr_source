@@ -1,6 +1,6 @@
 ---
-title: 3D géospatial, jumeaux numériques et outils open source pour l'archéologie
-summary: 'Avancées du projet Junarka'
+title: 3D géospatiale, jumeaux numériques et outils open source pour l'archéologie : avancées du projet Junarka"
+summary: 'Journéees 2025 du Consortium 3D pour les humanités numériques'
 authors: [Jérémy Garniaux]
 tags: [junarka, thèse, 3D, jumeaux numériques]
 categories: []
@@ -16,7 +16,7 @@ slides:
     transition: 'none'
 ---
 
-### ![](albums/slides/jc3dhn2025/slide-01.png)
+![](albums/slides/jc3dhn2025/slide-01.png)
 
 ---
 
@@ -24,9 +24,29 @@ slides:
 
 ---
 
-###
-
 ![](albums/slides/jc3dhn2025/slide-03.png)
 
 ---
 
+![](albums/slides/jc3dhn2025/slide-04.png)
+
+---
+
+![](albums/slides/jc3dhn2025/slide-05.png)
+
+---
+![](albums/slides/jc3dhn2025/slide-06.png)
+
+---
+![](albums/slides/jc3dhn2025/slide-07.png)
+
+---
+![](albums/slides/jc3dhn2025/slide-08.png)
+
+---
+![](albums/slides/jc3dhn2025/slide-09.png)
+
+---
+![](albums/slides/jc3dhn2025/slide-10.png)
+
+---
