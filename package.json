@@ -1,0 +1,16 @@
+{
+  "name": "mapperfr_source",
+  "version": "1.0.0",
+  "description": "Built with Hugo and based on the [Academic CV](https://github.com/HugoBlox/theme-academic-cv) template from [Hugo Blox](https://hugoblox.com).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github_mapper:mapperfr/mapperfr_source.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
