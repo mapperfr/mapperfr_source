@@ -1,16 +1,19 @@
 {
-  "name": "mapperfr_source",
+  "name": "hugo-blox-academic-cv-starter",
   "version": "1.0.0",
-  "description": "Built with Hugo and based on the [Academic CV](https://github.com/HugoBlox/theme-academic-cv) template from [Hugo Blox](https://hugoblox.com).",
-  "main": "index.js",
+  "private": true,
+  "packageManager": "pnpm@10.14.0",
+  "description": "Academic CV starter template for Hugo Blox with Tailwind CSS v4",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "hugo server --disableFastRender",
+    "build": "hugo --minify && pnpm run pagefind",
+    "pagefind": "pagefind --site public"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github_mapper:mapperfr/mapperfr_source.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.12",
+    "@tailwindcss/typography": "^0.5.10",
+    "pagefind": "^1.4.0",
+    "preact": "^10.27.2",
+    "tailwindcss": "^4.1.12"
+  }
 }
